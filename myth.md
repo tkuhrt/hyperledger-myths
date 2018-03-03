@@ -1,10 +1,14 @@
 ### Myth: Hyperledger is a blockchain
 Hyperledger is an open source collaborative project hosted by The Linux Foundation.
 
+Note: Hyperledger is an open source collaborative effort created to advance cross-industry blockchain technologies. It is a global collaboration, hosted by The Linux Foundation, including leaders in finance, banking, Internet of Things, supply chains, manufacturing and Technology. Hyperledger is the fastest growing project ever hosted by The Linux Foundation. Hyperledger now has more than 185 members. The project was first announced with 30 members in February of 2016. Hyperledger membership is global with 39% in APAC (25% in China), 20% in EMEA and 41% spread across North America. Our membership also spans multiple industries, including finance, banking, internet of things, supply chain, manufacturing, healthcare, and technology.
+
 
 
 ### Myth: Hyperledger is Hyperledger Fabric
 Hyperledger consists of nine different projects -- five frameworks and four tools.
+
+Note: Hyperledger Fabric was the first of nine projects that have been donated to Hyperledger and the Linux Foundation. Five of the Hyperledger projects are frameworks -- Hyperledger Fabric, Hyperledger Sawtooth, Hyperledger Iroha, Hyperledger Indy, and Hyperledger Burrow. Four of the Hyperledger projects are tools -- Hyperledger Composer, Hyperledger Cello, Hyperledger Explorer, and Hyperledger Quilt. You can see additional information about the projects on the [Hyperledger website](https://www.hyperledger.org/projects).
 
 
 
