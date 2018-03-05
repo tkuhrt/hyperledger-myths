@@ -25,11 +25,11 @@
 		<div class="reveal">
 			<div class="slides">
 				<section data-markdown="myth.md"
-         data-separator="^\n\n\n"
-         data-separator-vertical="^\n\n"
-         data-separator-notes="^Note:"
-         data-charset="iso-8859-15"
-				 data-background-image="https://docs.google.com/drawings/d/e/2PACX-1vRJJlfsFVuItffzcjaGys8CcHlJ1V36q-4qiRY1wpRf7aLPQYg9QlloFk3rdSG-B_ZRn3eXU2Rm9MLX/pub?w=1440&h=810">
+				         data-separator="^\n\n\n"
+				         data-separator-vertical="^\n\n"
+				         data-separator-notes="^Note:"
+				         data-charset="iso-8859-15"
+				         data-background-image="https://docs.google.com/drawings/d/e/2PACX-1vRJJlfsFVuItffzcjaGys8CcHlJ1V36q-4qiRY1wpRf7aLPQYg9QlloFk3rdSG-B_ZRn3eXU2Rm9MLX/pub?w=1440&h=810">
     <!--
         Note that Windows uses `\r\n` instead of `\n` as its linefeed character.
         For a regex that supports all operating systems, use `\r?\n` instead of `\n`.
@@ -46,6 +46,7 @@
 			// - https://github.com/hakimel/reveal.js#configuration
 			// - https://github.com/hakimel/reveal.js#dependencies
 			Reveal.initialize({
+				hideAddressBar: true,
 				dependencies: [
 					{ src: 'plugin/markdown/marked.js' },
 					{ src: 'plugin/markdown/markdown.js' },
